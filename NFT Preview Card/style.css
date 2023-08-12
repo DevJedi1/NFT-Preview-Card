@@ -1,0 +1,86 @@
+body {
+  background-color: rgb(14, 14, 79);
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  color: #fff;
+  padding-left: 1.5rem;
+}
+
+img {
+  text-align: center;
+}
+
+a {
+  text-decoration: none;
+  color: #fff;
+}
+
+a:hover {
+  color: hsl(0, 0%, 50%);
+}
+
+a:visited {
+  color: #808080;
+}
+
+.main {
+  margin: auto;
+  width: 20em;
+  height: 36.8em;
+  border: 1.5px solid #2d2169;
+  border-radius: 2rem;
+  padding: 5px;
+  background: rgb(20, 20, 98);
+  text-shadow: 10em;
+}
+
+.NFT {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 95%;
+  height: 20em;
+  padding: none;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.begone {
+  color: rgb(20, 20, 98);
+  text-align: center;
+  text-decoration: line-through rgb(128, 128, 128) solid;
+  line-height: 0%;
+}
+
+.nft {
+  color: #fff;
+}
+
+.ETH {
+  color: #00ffff;
+}
+
+.eth {
+  float: left;
+  padding: 0.5rem;
+}
+
+.days {
+  float: right;
+  padding: 0.5rem;
+}
+
+.desc {
+  color: rgb(160, 152, 152);
+}
+
+.attribution {
+  text-align: center;
+  color: #fff;
+}
+.julesimg {
+  text-align: center;
+  border: #fff;
+}
