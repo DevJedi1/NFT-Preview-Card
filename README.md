@@ -1,5 +1,1 @@
-# NFT-Preview-Card
-NFT Preview Card Project From Frontend Mentor.
-
-- The point of this project is to help the coder practice their HTML and CSS skills.
-- 
+![nftscreen](https://github.com/DevJedi1/NFT-Preview-Card/assets/136238143/44b8fa1a-f045-49cd-a1d6-3e13b6bd0eaa)
